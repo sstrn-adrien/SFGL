@@ -12,8 +12,8 @@ Adrien Estanove - main developer (maghin@merhylstudio.org)
 Download
 --------
 
-You can get the latest official release on SFML website (http://sfgl.merhylstudio.org/download.php).
-You can also get the current development version from the git repository (https://github.com/Maghin/SFGL).
+You can get the latest official release on the MerhylStudio website (http://sfgl.merhylstudio.org/download.php).
+You can also get the current development version from the git repository (https://github.com/merhylstudio/SFGL).
 
 Install
 -------
@@ -26,7 +26,7 @@ Learn
 There are several places to learn SFGL:
 * The official tutorials (http://sfgl.merhylstudio.org/tutorials/)
 * The online API documentation (http://sfgl.merhylstudio.org/documentation/)
-* The community wiki (https://github.com/Maghin/SFGL/wiki/)
+* The community wiki (https://github.com/merhylstudio/SFGL/wiki/)
 * The community forum (http://sfgl.merhylstudio.org/forums/) (or http://sfgl.merhylstudio.org/fr/forums/ for French people)
 
 Thanks
